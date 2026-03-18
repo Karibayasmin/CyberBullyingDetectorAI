@@ -53,7 +53,7 @@ Defines explicit rules for:
 ## Results (Screenshots)
 
 ### English Output
-![English Output](images/english.png)
+![English Output](images/english_language.png)
 
 ### German & Bengali Output
 ![German Bengali Output](images/german_bengali.png)
